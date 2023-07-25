@@ -1,22 +1,21 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+MovieHub+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+𝐀𝐉+𝐓𝐆+♥️+!!!!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
-</p>
-<h1 align="center">
-  𝑫𝑸-𝑻𝒉𝒆-𝑭𝒊𝒍𝒆-𝑫𝒐𝒏𝒐𝒓 𝑩𝒐𝒕
-</h1>
+  <img src="https://telegra.ph/file/76856c2c9da12621c29c9.jpg" alt="Awesome Filter Logo">
+  </p>
+  <h1 align="center">
+    <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
+    </h1>
+ 
+# 👩‍💻 MOVIE HUB™
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐷𝑄-𝑇ℎ𝑒-𝐹𝑖𝑙𝑒-𝐷𝑜𝑛𝑜𝑟!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+Jᴏᴇʟ+ᠰ+TɢX!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
-</p>
+🌟 <b>Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ</b> 💥
 
-<a href="https://github.com/Joelkb/DQ-The-File-Donor/stargazers"><img src="https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Joelkb/DQ-The-File-Donor/network/members"> <img src="https://img.shields.io/github/forks/Joelkb/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Joelkb/DQ-The-File-Donor"> <img src="https://img.shields.io/github/repo-size/Joelkb/DQ-The-File-Donor?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/Joelkb/DQ-The-File-Donor/commits/kdbotz"> <img src="https://img.shields.io/github/last-commit/Joelkb/DQ-The-File-Donor?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Joelkb/DQ-The-File-Donor"> <img src="https://img.shields.io/github/contributors/Joelkb/DQ-The-File-Donor?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Joelkb/DQ-The-File-Donor/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
+- 🎯 <b> Tᴀʀɢᴇᴛ 
+- 🍴 500 Fᴏʀᴋs 
+- Oʀ ◑
+- 🌟 100 Sᴛᴀʀs </b>
 
+## HɪɢʜLɪɢʜᴛ Fᴇᴀᴛᴜʀᴇs <b>
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
 - [x] 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑆𝑒𝑡
 - [x] 𝐼𝑛𝑑𝑒𝑥𝑒𝑠 𝐹𝑖𝑙𝑒𝑠 𝑎𝑏𝑜𝑣𝑒 2𝐺𝐵
@@ -56,9 +55,98 @@
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/DQ_The_File_Donor_Updates'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+### Mᴜsᴛ AᴅᴅVᴀʀɪᴀʙʟᴇs
 
-## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
+- `BOT_TOKEN` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ғʀᴏᴍ ʙᴏᴛғᴀᴛʜᴇʀ
+- `API_ID` 👈 ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ ( Telegram.Org )
+- `API_HASH` 👈 ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ ( Telegram.Org )
+- `CHANNELS` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ᴅʙ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
+- `ADMINS` 👈 ɢᴇᴛ ᴜʀ ɪᴅ ғʀᴏᴍ ( @MissRose_bot ) ʙᴏᴛ
+- `DATABASE_URI` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ғʀᴏᴍ ( mongodb.com )
+- `DATABASE_NAME` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ɴᴀᴍᴇ ғʀᴏᴍ ( mongodb.com )
+- `LOG_CHANNEL` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
+- `FILE_REQ_CHANNEL` 👈 ғɪʟᴇ ʀᴇǫᴜᴇsᴛ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴ ᴄʜᴀɴɴᴇʟ ɪᴅ
+- `AUTO_DELETE_SECONDS` 👈 ɢɪᴠᴇ ɪɴ sᴇᴄᴏɴᴅs ғᴏʀᴍᴀᴛ
+- `HOW_TO_DOWNLOAD` 👈 ᴄʜᴀɴɢᴇ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ʙᴜᴛᴛᴏɴ ʟɪɴᴋ / ᴏɴʟʏ ɢɪᴠᴇ ᴛʜᴇ ᴠɪᴅᴇᴏ ʟɪɴᴋ
+- `SHORTNER_SITE` 👈 ɢɪᴠᴇ sʜᴏʀᴛɴᴇʀ sɪᴛᴇ ʟɪɴᴋ ﹝ ᴇɢ ;- shorturllink.in ﹞
+- `SHORTNER_API` 👈 ɢɪᴠᴇ sʜᴏʀᴛɴᴇʀ sɪᴛᴇ ᴀᴩɪ
+
+## 👏 Pʀᴏᴜᴅ Tᴏ Sᴀʏ 👏
+
+⚡ Fɪʀsᴛ Tɪᴍᴇ Oɴ Gɪᴛʜᴜʙ ﹛ Oᴩᴇɴ Sᴏᴜʀᴄᴇ ﹜ ⚡
+
+Fɪʀsᴛ Tɪᴍᴇ Tᴏ Aᴅᴅ Tʜɪs Fᴇᴀᴛᴜʀᴇ Oɴ Oᴩᴇɴ Sᴏᴜʀᴄᴇ Rᴇᴩᴏ
+
+
+Pᴏsᴛ Sʜᴏʀᴛɴᴇʀ Lɪɴᴋ Fᴇᴀᴛᴜʀᴇ 😗
+
+Cᴀɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ﹖ Sᴇᴇ SᴄʀᴇᴇɴSʜᴏᴛ 👇
+<p align="center">
+  <img src="https://graph.org/file/21483ea00b3d273b8b9cb.jpg" alt="Proud To Say">
+  </p>
+
+## Dᴇᴘᴏʟʏ
+Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
+
+<a href=https://github.com/TamilanBotsZ/PremiumFilter/blob/Tamilans-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
+
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/TamilanBotsZ/PremiumFilter">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  </a>
+  </p>
+  </details>
+
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴇɴᴅᴇʀ {ғʀᴇᴇ}</summary>
+<p>
+<br>
+<a href="https://dashboard.render.com/select-repo?type=web">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="deploy-to-render">
+<b><a href=https://tx.me/Sharath_Links/36>Please Watch Tutorial Before Depoly Or Error</a></b>
+  </a>
+  </p>
+  <p>
+</details>
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ᴩᴀɪᴅ}</summary>
+<p>
+<br>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TamilanBotsZ/PremiumFilter&branch=Tamilans-Working-Branch">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
+  </a
+  </p>
+  <p>
+</details>  
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Oᴋᴛᴇᴛᴏ {ᴘᴀɪᴅ}</summary>
+<p>
+<br>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TamilanBotsZ/PremiumFilter">
+  <img src="https://okteto.com/develop-okteto.svg" alt="deploy-to-okteto">
+  </a>
+  </p>
+  </details>
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
+<p>
+<br>
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilanBotsZ%2FPremiumFilter">
+  <img src="https://railway.app/button.svg" alt="deploy-to-railway">
+  </a>
+  </p>
+  </details>
+<details><summary>Rᴜɴ Lᴏᴄᴀʟʟʏ/Vᴘs {ᴘᴀɪᴅ}</summary>
+<p>
+You must have the latest version of <a href="golang.org">go</a> installed first
+<pre>
+git clone https://github.com/TamilanBotsZ/PremiumFilter
+cd AwesomeFilterPro
+go build .
+./PremiumFilter
+</pre>
+</p>
+</details>
+
+## Cᴏᴍᴍᴀɴᴅs
 ```
 • /invite - 𝑡𝑜 𝑔𝑒𝑡 𝑡ℎ𝑒 𝑖𝑛𝑣𝑖𝑡𝑒 𝑙𝑖𝑛𝑘 𝑜𝑓 𝑎𝑛𝑦 𝑐ℎ𝑎𝑡 𝑤ℎ𝑖𝑐ℎ 𝑡ℎ𝑒 𝑏𝑜𝑡 𝑖𝑠 𝑎𝑑𝑚𝑖𝑛.
 • /logs - 𝑡𝑜 𝑔𝑒𝑡 𝑡ℎ𝑒 𝑟𝑒𝑠𝑐𝑒𝑛𝑡 𝑒𝑟𝑟𝑜𝑟𝑠
@@ -100,121 +188,20 @@
 • /deletefiles - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐹𝑖𝑙𝑒𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
 ```
 
-## Variables
+## Cʀᴇᴅɪᴛs
+Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![𝐀𝐉 𝐓𝐆-Mᴇ](https://img.shields.io/static/v1?label=MᴏᴠɪᴇHᴜʙ&message=devs&color=critical)](https://telegram.dog/at_xu_l07)
 
-### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
-* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-### Optional Variables
-* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
-* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Joelkb/DQ-The-File-Donor/blob/master/info.py) for more optional variables
+## Tʜᴀɴᴋs Tᴏ 
+ <b>- Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
+ - Tʜᴀɴᴋs Tᴏ ᴅᴇᴠ❣️
+ - Tʜᴀɴᴋs Tᴏ Oᴜʀ Usᴇʀs </b>😇
 
+## Dɪsᴄʟᴀᴍɪɴᴇʀ
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/Joelkb/DQ-the-file-donor">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
-</a>
-</p>
-</details>
-<details><summary>Deploy To Heroku Via Bot</summary>
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=Sm9lbGtiL0RRLXRoZS1maWxlLWRvbm9yIG1hc3Rlcg">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy Via Heroku Bot">
-</a>
-</p>
-</details>
+<b>- Tʜɪs Is OᴘᴇɴSᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Sᴏ Dᴏɴ'ᴛ Sᴇʟʟ Tʜɪs Rᴇᴘᴏ Fᴏʀ Mᴏɴᴇʏ
 
-<details><summary>Deploy To Koyeb</summary>
-<br>
-<b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
-<br>
-<br>
+- Pʟᴇᴀsᴇ Dᴏɴ'ᴛ Cʜᴀɴɢᴇ "Uᴘᴅᴀᴛᴇs" Bᴜᴛᴛᴏɴ Lɪɴᴋ
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=web&name=dqthefiledonor)
-</details>
+- Iғ Yᴏᴜ Lɪᴋᴇ Tʜᴇ Rᴇᴩᴏ Mᴇᴀɴs Gɪᴠᴇ Sᴛᴀʀᴛ
 
-<details><summary>Deploy To Render</summary>
-<br>
-<b>
-Use these commands:
-<br>
-<br>
-• Build Command: <code>pip3 install -U -r requirements.txt</code>
-<br>
-<br>
-• Start Command: <code>python3 bot.py</code>
-<br>
-<br>
-Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
-<br>
-<br>
-Use these settings when adding a monitor:</b>
-<br>
-<br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
-<br>
-<br>
-<b>Click on the below button to deploy directly to render ↓</b>
-<br>
-<br>
-<a href="https://render.com/deploy?repo=https://github.com/Joelkb/DQ-the-file-donor/tree/web">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a>
-</details>
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/Joelkb/DQ-The-File-Donor
-# Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
-
-<hr>
-
-## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=Jᴏᴇʟ+ᠰ+TɢX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
-
-## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
- - Thanks To All Everyone In This Journey
- - Thanks To [EvamariaTG](https://raw.githubusercontent.com/EvamariaTG) for their awesome [EvaMaria Bot](https://raw.githubusercontent.com/EvamariaTG/EvaMaria)
- - Thanks To [Joelkb](https://github.com/Joelkb) who have edited and modified this repo as now it is. (It's me 😂)
-
-## Note 🏷️
- - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
- - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/creatorbeatz)
-
-[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
-
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
-Fork the repo and edit as per your needs.
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
-
-## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
-
-[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+- Mʏ 3ᴍᴏɴᴛʜ ᴏғ HᴀʀᴅWᴏʀᴋ </b>
