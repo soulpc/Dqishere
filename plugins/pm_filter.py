@@ -1167,11 +1167,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "filters":
         buttons = [[
-            InlineKeyboardButton('Mᴀɴᴜᴀʟ FIʟᴛᴇʀ', callback_data='manuelfilter'),
-            InlineKeyboardButton('Aᴜᴛᴏ FIʟᴛᴇʀ', callback_data='autofilter')
+            InlineKeyboardButton('🎛️ 𝑴𝒂𝒏𝒖𝒂𝒍 𝒇𝒊𝒍𝒕𝒆𝒓', callback_data='manuelfilter'),
+            InlineKeyboardButton('𝑨𝒖𝒕𝒐 𝒇𝒊𝒍𝒕𝒆𝒓 📥', callback_data='autofilter')
         ],[
-            InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='help'),
-            InlineKeyboardButton('Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs', callback_data='global_filters')
+            InlineKeyboardButton('⬅️ 𝑩𝒂𝒄𝒌', callback_data='help'),
+            InlineKeyboardButton('𝑮𝒍𝒐𝒃𝒂𝒍 𝒇𝒊𝒍𝒕𝒆𝒓 🌐', callback_data='global_filters')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1188,7 +1188,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "global_filters":
         buttons = [[
-            InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='filters')
+            InlineKeyboardButton('⬅️ 𝑩𝒂𝒄𝒌', callback_data='filters')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -1204,14 +1204,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('FIʟᴛᴇʀs', callback_data='filters'),
-            InlineKeyboardButton('Fɪʟᴇ Sᴛᴏʀᴇ', callback_data='store_file')
+            InlineKeyboardButton('𝑭𝒊𝒍𝒕𝒆𝒓𝒔 ♻️', callback_data='filters'),
+            InlineKeyboardButton('𝑭𝒊𝒍𝒆 𝒔𝒕𝒐𝒓𝒆 🗃️', callback_data='store_file')
         ], [
-            InlineKeyboardButton('Cᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
-            InlineKeyboardButton('Exᴛʀᴀ Mᴏᴅs', callback_data='extra')
+            InlineKeyboardButton('📡 𝑪𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒐𝒏𝒔', callback_data='coct'),
+            InlineKeyboardButton('𝑬𝒙𝒕𝒓𝒂 📟', callback_data='extra')
         ], [
-            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('Sᴛᴀᴛᴜs', callback_data='stats')
+            InlineKeyboardButton('𝑯𝒐𝒎𝒆 🏠', callback_data='start'),
+            InlineKeyboardButton('𝑺𝒕𝒂𝒕𝒖𝒔 📉', callback_data='stats')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
