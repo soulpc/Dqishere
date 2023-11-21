@@ -7,16 +7,16 @@ class script(object):
 
     HELP_TXT = """<b>🔊 എന്റെ പണിയായുധങ്ങൾ ഇതാ നിങ്ങൾക്ക് തുറന്നു തന്നിരിക്കുന്നു..!</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='https://t.me/AJTGx'>Aᴊ Tɢ</a>
-📚 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌 : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-📝 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-📡 𝑯𝒐𝒔𝒕𝒆𝒅 𝑶𝒏 : <a href=' https://www.koyeb.com/'>Kᴏʏᴇʙ</a>
-👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href='https://t.me/moviesworld_malayalam'>movies 📢</a>"""
-
+    ABOUT_TXT = """<b>🤖 𝑴𝒚 𝑵𝒂𝒎𝒆: {}
+👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='https://t.me/AJTGx'>𝑨𝑱 𝑻𝑮</a>
+📚 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎</a>
+📝 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <a href='https://www.python.org/download/releases/3.0/'>𝑷𝒚𝒕𝒉𝒐𝒏 3</a>
+📡 𝑯𝒐𝒔𝒕𝒆𝒅 𝑶𝒏 : <a href=' https://www.koyeb.com/'>𝑲𝒐𝒚𝒆𝒃</a>
+👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href='https://t.me/moviesworld_malayalam'>𝑴𝒘𝑴</a>
+📢 𝑼𝒑𝒅𝒂𝒕𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href='https://t.me/+kzIZY6esOHw5YmRl'>𝑴𝒘𝑴 𝑼𝑷𝑫𝑨𝑻𝑬𝑺 📢</a>"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/AJTGx">Hᴇʀᴇ</a>
+- നോക്കണ്ട കിട്ടൂല 😁
+- തൊട്ട് നോക്ക് 😌 - <a href="https://t.me/AJTGx">𝑨𝑱 𝑻𝑮</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/AJTGx">Aᴊ ᠰ Tɢ</a></b>"""
 
