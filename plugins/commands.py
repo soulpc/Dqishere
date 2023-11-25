@@ -43,12 +43,11 @@ async def start(client, message):
         await db.add_user(message.from_user.id, message.from_user.first_name)
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
-        buttons = [[
-                    InlineKeyboardButton('⎚ 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 ⎚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-                ],[
-                    InlineKeyboardButton('🎁 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 🎁', callback_data='help'),
-                    InlineKeyboardButton('🪬 𝑨𝒃𝒐𝒖𝒕 🪬', callback_data='about'),
-                  ]]
+        buttons =  [[           
+            InlineKeyboardButton('🖥 𝗡𝗘𝗪 𝗢𝗧𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🖥', url=f'https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS')
+            ],[
+            InlineKeyboardButton('⭕️𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️', url="https://t.me/ARAKAL_THERAVAD_GROUP_LINKS")
+            ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -86,12 +85,11 @@ async def start(client, message):
             )
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
-        buttons = [[
-                    InlineKeyboardButton('⎚ 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 ⎚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-                ],[
-                    InlineKeyboardButton('🎁 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 🎁', callback_data='help'),
-                    InlineKeyboardButton('🪬 𝑨𝒃𝒐𝒖𝒕 🪬', callback_data='about'),
-                  ]]
+        buttons =  [[           
+            InlineKeyboardButton('🖥 𝗡𝗘𝗪 𝗢𝗧𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🖥', url=f'https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS')
+            ],[
+            InlineKeyboardButton('⭕️𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️', url="https://t.me/ARAKAL_THERAVAD_GROUP_LINKS")
+            ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -144,7 +142,7 @@ async def start(client, message):
                           InlineKeyboardButton('Movies 🍿', url=GRP_LNK),
                           InlineKeyboardButton('Updates 📢', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("മുതലാളി 🤦‍♂️", url="t.me/AJTGx")
+                          InlineKeyboardButton("മുതലാളി 🤦‍♂️", url="@ARAKAL_THERAVAD_MOVIES_02")
                          ]
                         ]
                     )
@@ -163,7 +161,7 @@ async def start(client, message):
                           InlineKeyboardButton('Movies 🍿', url=GRP_LNK),
                           InlineKeyboardButton('Updates 📢', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("മുതലാളി 🤦‍♂️", url="t.me/AJTGx")
+                          InlineKeyboardButton("മുതലാളി 🤦‍♂️", url="@ARAKAL_THERAVAD_MOVIES_02")
                          ]
                         ]
                     )
@@ -282,7 +280,7 @@ async def start(client, message):
                           InlineKeyboardButton('Movies 🍿', url=GRP_LNK),
                           InlineKeyboardButton('Updates 📢', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("മുതലാളി 🤦‍♂️", url="t.me/AJTGx")
+                          InlineKeyboardButton("മുതലാളി 🤦‍♂️", url="@ARAKAL_THERAVAD_MOVIES_02")
                          ]
                     ]
                 )
@@ -336,7 +334,7 @@ async def start(client, message):
                   InlineKeyboardButton('Movies 🍿', url=GRP_LNK),
                   InlineKeyboardButton('Updates 📢', url=CHNL_LNK)
                ],[
-                  InlineKeyboardButton("മുതലാളി 🤦‍♂️", url="t.me/AJTGx")
+                  InlineKeyboardButton("മുതലാളി 🤦‍♂️", url="@ARAKAL_THERAVAD_MOVIES_02")
                  ]
             ]
         )
